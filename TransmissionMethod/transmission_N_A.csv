@@ -1,0 +1,194 @@
+#,Attribute Name,Pointbiserial,pvalue < 0.005,Spearman,pvalue < 0.005,Decision
+1,oil rents pct of gdp,0.09114,True,0.06704,True,Decision
+2,unemployment male pct of male labor force modeled ilo estimate,0.07742,True,0.06055,True,Decision
+3,unemployment total pct of total labor force modeled ilo estimate,0.07561,True,0.05802,True,Decision
+4,unemployment youth male pct of male labor force ages 15-24 modeled ilo estimate,0.07307,True,0.05597,True,Decision
+5,mortality rate adult female per 1000 female adults,0.07268,True,0.07098,True,Decision
+6,total natural resources rents pct of gdp,0.0714,True,0.0383,True,Decision
+7,immunization measles pct of children ages 12-23 months,-0.07114,True,-0.04874,True,Decision
+8,immunization dpt pct of children ages 12-23 months,-0.07051,True,-0.04714,True,Decision
+9,food production index 2004-2006 = 100,-0.07046,True,-0.07779,True,Decision
+10,livestock production index 2004-2006 = 100,-0.06973,True,-0.06836,True,Decision
+11,employment in industry female pct of female employment modeled ilo estimate,0.06603,True,0.05141,True,Decision
+12,mobile cellular subscriptions per 100 people,-0.06443,True,-0.05737,True,Decision
+13,mortality rate adult male per 1000 male adults,0.06205,True,0.06376,True,Decision
+14,unemployment youth total pct of total labor force ages 15-24 modeled ilo estimate,0.06031,True,0.04875,True,Decision
+15,agricultural land sq. km,0.05715,True,0.06449,True,Decision
+16,forest area pct of land area,0.05707,True,0.04978,True,Decision
+17,crop production index 2004-2006 = 100,-0.05604,True,-0.06744,True,Decision
+18,survival to age 65 female pct of cohort,-0.05592,True,-0.04714,True,Decision
+19,access to electricity urban pct of urban population,-0.0543,True,-0.03894,True,Decision
+20,maternal mortality ratio modeled estimate per 100000 live births,0.05357,True,0.07112,True,Decision
+21,prevalence of anemia among non-pregnant women pct of women ages 15-49,0.05348,True,0.04386,True,Decision
+22,forest area sq. km,0.05339,True,0.08455,True,Decision
+23,prevalence of anemia among women of reproductive age pct of women ages 15-49,0.05292,True,0.04356,True,Decision
+24,lifetime risk of maternal death pct,0.05257,True,0.0703,True,Decision
+26,life expectancy at birth female years,-0.05041,True,-0.04065,True,Decision
+27,life expectancy at birth total years,-0.04935,True,-0.04097,True,Decision
+28,life expectancy at birth male years,-0.04777,True,-0.04111,True,Decision
+29,survival to age 65 male pct of cohort,-0.04757,True,-0.04408,True,Decision
+31,adolescent fertility rate births per 1000 women ages 15-19,0.04615,True,0.04455,True,Decision
+32,land area sq. km,0.04596,True,0.04782,True,Decision
+33,population ages 15-64 pct of total,-0.04592,True,-0.04174,True,Decision
+34,surface area sq. km,0.04579,True,0.04771,True,Decision
+35,population ages 15-64 male pct of total,-0.04569,True,-0.04379,True,Decision
+36,population ages 45-49 male pct of male population,-0.04533,True,-0.04793,True,Decision
+37,age dependency ratio pct of working-age population,0.04482,True,0.0412,True,Decision
+38,population ages 15-64 female pct of total,-0.04474,True,-0.03936,True,Decision
+39,population ages 40-44 male pct of male population,-0.04449,True,-0.04405,True,Decision
+40,unemployment female pct of female labor force modeled ilo estimate,0.04391,True,0.04453,True,Decision
+41,lifetime risk of maternal death 1 in  rate varies by country,-0.04354,True,-0.04377,True,Decision
+42,population ages 40-44 female pct of female population,-0.04342,True,-0.04092,True,Decision
+43,fertility rate total births per woman,0.04341,True,0.03524,True,Decision
+44,mortality rate neonatal per 1000 live births,0.04338,True,0.03855,True,Decision
+45,birth rate crude per 1000 people,0.04304,True,0.03962,True,Decision
+46,access to electricity pct of population,-0.04303,True,-0.03746,True,Decision
+47,population ages 5-9 male pct of male population,0.04237,True,0.04187,True,Decision
+48,age dependency ratio young pct of working-age population,0.04184,True,0.0427,True,Decision
+49,population ages 45-49 female pct of female population,-0.04171,True,-0.04248,True,Decision
+50,population ages 0-4 male pct of male population,0.0414,True,0.03942,True,Decision
+51,population ages 5-9 female pct of female population,0.04119,True,0.03913,True,Decision
+52,population ages 0-14 pct of total,0.04115,True,0.04048,True,Decision
+53,employment in services female pct of female employment modeled ilo estimate,-0.04103,True,-0.03777,True,Decision
+54,population ages 0-14 male pct of total,0.04102,True,0.04136,True,Decision
+55,population ages 0-4 female pct of female population,0.04012,True,0.03757,True,Decision
+57,population ages 0-14 female pct of total,0.03986,True,0.03797,True,Decision
+58,employment to population ratio 15+ male pct modeled ilo estimate,-0.0395,True,-0.03532,True,Decision
+60,population ages 50-54 male pct of male population,-0.03867,True,-0.03984,True,Decision
+61,death rate crude per 1000 people,0.03837,True,0.03736,True,Decision
+62,population ages 35-39 female pct of female population,-0.03812,True,-0.03633,True,Decision
+63,capture fisheries production metric tons,0.03768,True,0.03553,True,Decision
+64,renewable electricity output pct of total electricity output,0.03758,True,0.04384,True,Decision
+65,mortality rate infant per 1000 live births,0.03755,True,0.03745,True,Decision
+66,population ages 35-39 male pct of male population,-0.03674,True,-0.03737,True,Decision
+67,population ages 10-14 male pct of male population,0.03618,True,0.03534,True,Decision
+68,population ages 50-54 female pct of female population,-0.03602,True,-0.03719,True,Decision
+69,mortality rate under-5 per 1000 live births,0.03592,True,0.03749,True,Decision
+70,population ages 10-14 female pct of female population,0.03557,True,0.03544,True,Decision
+72,urban population growth annual pct,0.03285,False,0.03984,True,Decision
+75,ratio of female to male labor force participation rate pct modeled ilo estimate,0.03208,False,0.04003,True,Decision
+76,individuals using the internet pct of population,-0.03168,False,-0.04222,True,Decision
+78,renewable energy consumption pct of total final energy consumption,0.02885,False,0.04078,True,Decision
+83,labor force participation rate male pct of male population ages 15-64 modeled ilo estimate,-0.02828,False,-0.03683,True,Decision
+85,unemployment youth female pct of female labor force ages 15-24 modeled ilo estimate,0.02784,False,0.03489,True,Decision
+111,number of maternal deaths,0.02204,False,0.06931,True,Decision
+114,population density people per sq. km of land area,-0.02146,False,-0.04543,True,Decision
+118,total fisheries production metric tons,0.01985,False,0.03652,True,Decision
+182,forest rents pct of gdp,0.00539,False,0.04874,True,Decision
+25,refugee population by country or territory of origin,0.05202,True,0.02896,False,Decision
+30,cereal production metric tons,0.04754,True,0.00449,False,Decision
+56,arable land pct of land area,-0.04,True,-0.03357,False,Decision
+59,co2 emissions from liquid fuel consumption kt,0.03905,True,0.02086,False,Decision
+71,co2 emissions from gaseous fuel consumption kt,0.03536,True,0.03329,False,Decision
+73,land under cereal production hectares,0.03259,False,0.00383,False,Decision
+74,fixed telephone subscriptions,0.03214,False,0.02017,False,Decision
+77,population ages 75-79 female pct of female population,-0.02946,False,-0.02452,False,Decision
+79,prevalence of anemia among children pct of children under 5,0.02861,False,0.02061,False,Decision
+80,co2 emissions kt,0.02844,False,0.02229,False,Decision
+81,wage and salaried workers female pct of female employment modeled ilo estimate,-0.02839,False,-0.02694,False,Decision
+82,self-employed female pct of female employment modeled ilo estimate,0.02839,False,0.02694,False,Decision
+84,vulnerable employment female pct of female employment modeled ilo estimate,0.02826,False,0.02749,False,Decision
+86,employment in services pct of total employment modeled ilo estimate,-0.0269,False,-0.0282,False,Decision
+87,population ages 70-74 female pct of female population,-0.02621,False,-0.02264,False,Decision
+88,population ages 55-59 male pct of male population,-0.02593,False,-0.02705,False,Decision
+89,population ages 65 and above female,0.02578,False,-0.00412,False,Decision
+90,population ages 75-79 male pct of male population,-0.02522,False,-0.01981,False,Decision
+91,labor force female pct of total labor force,0.02479,False,0.03077,False,Decision
+92,mineral rents pct of gdp,-0.02475,False,-0.0214,False,Decision
+93,population ages 65 and above total,0.02457,False,-0.00304,False,Decision
+94,secondary education duration years,0.02455,False,0.02943,False,Decision
+95,urban population,0.02414,False,0.0025,False,Decision
+96,natural gas rents pct of gdp,-0.02403,False,-0.01735,False,Decision
+97,labor force participation rate female pct of female population ages 15+ modeled ilo estimate,0.02384,False,0.03241,False,Decision
+98,population ages 70-74 male pct of male population,-0.02374,False,-0.0194,False,Decision
+99,population ages 55-59 female pct of female population,-0.02372,False,-0.02355,False,Decision
+100,employment to population ratio ages 15-24 male pct modeled ilo estimate,-0.02371,False,-0.02124,False,Decision
+101,population ages 15-19 male pct of male population,0.02367,False,0.02049,False,Decision
+102,vulnerable employment total pct of total employment modeled ilo estimate,0.0235,False,0.02241,False,Decision
+103,population ages 65 and above male,0.02323,False,-0.00258,False,Decision
+104,employment in agriculture female pct of female employment modeled ilo estimate,0.02305,False,0.02709,False,Decision
+105,population ages 15-19 female pct of female population,0.02287,False,0.0207,False,Decision
+106,population ages 65 and above female pct of total,-0.02287,False,-0.01907,False,Decision
+107,wage and salaried workers total pct of total employment modeled ilo estimate,-0.02257,False,-0.0202,False,Decision
+108,self-employed total pct of total employment modeled ilo estimate,0.02257,False,0.0202,False,Decision
+109,co2 emissions from solid fuel consumption kt,0.0225,False,0.0275,False,Decision
+110,co2 emissions metric tons per capita,-0.02223,False,-0.02367,False,Decision
+112,population ages 80 and above female pct of female population,-0.02181,False,-0.02328,False,Decision
+113,population ages 60-64 male pct of male population,-0.02164,False,-0.01952,False,Decision
+115,population ages 65 and above pct of total,-0.0214,False,-0.01785,False,Decision
+116,population female,0.01993,False,0.00409,False,Decision
+117,population ages 60-64 female pct of female population,-0.01992,False,-0.01697,False,Decision
+119,fixed telephone subscriptions per 100 people,-0.01973,False,-0.01993,False,Decision
+120,labor force total,0.01952,False,0.00066,False,Decision
+121,population ages 15-64 female,0.01918,False,0.00214,False,Decision
+122,population ages 65 and above male pct of total,-0.01912,False,-0.01672,False,Decision
+123,population male,0.01894,False,0.0036,False,Decision
+124,population ages 15-64 total,0.01884,False,0.00148,False,Decision
+125,population ages 0-14 female,0.01883,False,0.01718,False,Decision
+126,energy intensity level of primary energy mj  2011 ppp gdp,-0.01867,False,-0.01319,False,Decision
+127,population ages 15-64 male,0.01852,False,0.00104,False,Decision
+128,population ages 0-14 total,0.01832,False,0.01716,False,Decision
+129,employers total pct of total employment modeled ilo estimate,-0.01828,False,-0.02826,False,Decision
+130,population ages 30-34 male pct of male population,-0.01821,False,-0.01547,False,Decision
+131,lower secondary school starting age years,-0.01813,False,-0.01884,False,Decision
+132,population total,0.01802,False,-0.00075,False,Decision
+133,population ages 0-14 male,0.01785,False,0.01706,False,Decision
+134,gdp per person employed constant 2011 ppp  ,-0.01758,False,-0.01399,False,Decision
+135,employment in agriculture pct of total employment modeled ilo estimate,0.01726,False,0.02257,False,Decision
+136,cereal yield kg per hectare,-0.01716,False,-0.02075,False,Decision
+137,employers male pct of male employment modeled ilo estimate,-0.01693,False,-0.02579,False,Decision
+138,age dependency ratio old pct of working-age population,-0.0165,False,-0.01342,False,Decision
+139,preprimary education duration years,0.01646,False,0.01563,False,Decision
+140,population ages 30-34 female pct of female population,-0.01612,False,-0.01544,False,Decision
+141,labor force participation rate female pct of female population ages 15-64 modeled ilo estimate,0.01607,False,0.01572,False,Decision
+142,employment to population ratio 15+ total pct modeled ilo estimate,-0.01605,False,-0.01498,False,Decision
+143,rainfall (mm),-0.01599,False,0.00823,False,Decision
+144,rural population,0.01588,False,0.01802,False,Decision
+145,population ages 80 and above male pct of male population,-0.01587,False,-0.01477,False,Decision
+146,labor force participation rate male pct of male population ages 15+ modeled ilo estimate,-0.01558,False,-0.01604,False,Decision
+147,vulnerable employment male pct of male employment modeled ilo estimate,0.01537,False,0.01987,False,Decision
+148,co2 emissions from gaseous fuel consumption pct of total,-0.01515,False,-0.00042,False,Decision
+149,employment in industry pct of total employment modeled ilo estimate,0.01509,False,0.01667,False,Decision
+150,employment to population ratio ages 15-24 total pct modeled ilo estimate,-0.01477,False,-0.01204,False,Decision
+151,employment in services male pct of male employment modeled ilo estimate,-0.01414,False,-0.01613,False,Decision
+152,population ages 20-24 male pct of male population,0.01412,False,0.01273,False,Decision
+153,wage and salaried workers male pct of male employment modeled ilo estimate,-0.01391,False,-0.01726,False,Decision
+154,self-employed male pct of male employment modeled ilo estimate,0.01391,False,0.01726,False,Decision
+155,population ages 20-24 female pct of female population,0.0138,False,0.01015,False,Decision
+156,labor force participation rate for ages 15-24 female pct modeled ilo estimate,0.01371,False,0.01523,False,Decision
+157,temparature ($^\circ$c),0.01368,False,0.00811,False,Decision
+158,population ages 65-69 female pct of female population,-0.01331,False,-0.01277,False,Decision
+159,employment in agriculture male pct of male employment modeled ilo estimate,0.01308,False,0.01742,False,Decision
+160,rural population growth annual pct,0.01268,False,0.00333,False,Decision
+161,primary education duration years,-0.0126,False,-0.0216,False,Decision
+162,population growth annual pct,0.01244,False,0.02741,False,Decision
+163,population ages 65-69 male pct of male population,-0.01225,False,-0.01291,False,Decision
+164,population ages 25-29 male pct of male population,-0.01143,False,-0.00601,False,Decision
+165,urban population pct of total,-0.01063,False,-0.01073,False,Decision
+166,rural population pct of total population,0.01063,False,0.01073,False,Decision
+167,agricultural land pct of land area,-0.01035,False,-0.01478,False,Decision
+168,primary school starting age years,-0.0098,False,-0.00891,False,Decision
+169,labor force participation rate total pct of total population ages 15+ modeled ilo estimate,0.00969,False,0.01805,False,Decision
+170,population ages 25-29 female pct of female population,-0.00859,False,-0.00706,False,Decision
+171,population male pct of total,-0.00842,False,0.0166,False,Decision
+172,population female pct of total,0.00842,False,-0.0166,False,Decision
+173,employment in industry male pct of male employment modeled ilo estimate,-0.00794,False,-0.01443,False,Decision
+174,mobile cellular subscriptions,0.00783,False,-0.00838,False,Decision
+175,labor force participation rate for ages 15-24 total pct modeled ilo estimate,0.00779,False,0.00667,False,Decision
+176,arable land hectares per person,-0.00734,False,0.01648,False,Decision
+177,access to electricity rural pct of rural population,0.0073,False,-0.01287,False,Decision
+178,co2 emissions from solid fuel consumption pct of total,-0.00728,False,-0.0124,False,Decision
+179,co2 emissions from liquid fuel consumption pct of total,0.00722,False,0.01089,False,Decision
+180,employment to population ratio 15+ female pct modeled ilo estimate,0.007,False,0.01043,False,Decision
+181,permanent cropland pct of land area,-0.00651,False,-0.01376,False,Decision
+183,employers female pct of female employment modeled ilo estimate,-0.00531,False,-0.02053,False,Decision
+184,contributing family workers male pct of male employment modeled ilo estimate,0.00443,False,0.00723,False,Decision
+185,employment to population ratio ages 15-24 female pct modeled ilo estimate,-0.00398,False,-0.00444,False,Decision
+186,number of under-five deaths,-0.00328,False,0.03143,False,Decision
+187,number of infant deaths,-0.00183,False,0.02901,False,Decision
+188,coal rents pct of gdp,0.00121,False,0.00873,False,Decision
+189,contributing family workers total pct of total employment modeled ilo estimate,0.00099,False,0.00491,False,Decision
+190,contributing family workers female pct of female employment modeled ilo estimate,0.00052,False,0.00244,False,Decision
+191,labor force participation rate total pct of total population ages 15-64 modeled ilo estimate,0.00043,False,-0.00385,False,Decision
+192,labor force participation rate for ages 15-24 male pct modeled ilo estimate,0.00015,False,-0.00398,False,Decision
+193,number of neonatal deaths,-5e-05,False,0.02888,False,Decision
