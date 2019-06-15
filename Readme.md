@@ -13,4 +13,19 @@ Data related to disease outbreak attributes are given in this repository. A list
 * [High Risk People](./HighRiskPeople.pdf "High Risk People")
 * [Vaccine Availability](./VaccineAvailability.pdf "Vaccine Availability")
 
+-------------
+
+All table summaries can be found [here]("./all_tables.pdf "Table Summary").
+
+-------------
+
+All buckets can be found [here](./indicator_buckets.md "Indicator Buckets").
+
+-------------
+
+Detailed results, i.e. correlation with individual attributes of the 193 attributes in consideration with a specific disease outbreak attribute can be found in the folders inside the project.
+
+For example, to find out correlations of different socioeconomic factors with outbreaks showing characteristic of affecting the cardiovascular system can be found in: [**AffectedSystems/affected_systems_Cardiovascular.csv**](./AffectedSystems/affected_systems_Cardiovascular.csv).
+
+The same can be done for any of the disease outbreak characteristics.
 
