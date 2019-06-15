@@ -15,7 +15,7 @@ Data related to disease outbreak attributes are given in this repository. A list
 
 -------------
 
-All table summaries can be found [here]("./all_tables.pdf "Table Summary").
+All table summaries can be found [here](./all_tables.pdf "Table Summary").
 
 -------------
 
