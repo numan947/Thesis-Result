@@ -19,7 +19,7 @@ All table summaries can be found [here](./all_tables.pdf "Table Summary").
 
 -------------
 
-All buckets can be found [here](./indicator_buckets.md "Indicator Buckets").
+All 50 indicator buckets can be found [here](./indicator_buckets.md "Indicator Buckets").
 
 -------------
 
